@@ -1,0 +1,15 @@
+target/*
+.settings/*
+.classpath
+.project
+.idea
+*.iml
+/target
+
+generated/
+
+
+*_data/*
+*-data/*
+postgres-*/*
+grafana/*
